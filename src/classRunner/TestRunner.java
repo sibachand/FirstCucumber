@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 		features = "Feature/testing.feature"
 		, glue = {"stepDefinition"}
 		, monochrome = true
-		, tags = {"~@Second"}
+		, tags = {"~@Third"}
 		)
 
 public class TestRunner {
